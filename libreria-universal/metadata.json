@@ -1,0 +1,6 @@
+{
+  "name": "Librería Universal - Tienda de Libros & Biblioteca",
+  "description": "Plataforma de comercio electrónico y biblioteca digital para la adquisición de obras literarias, científicas y filosóficas con catálogo dinámico, gestión de inventario y panel de administración.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
